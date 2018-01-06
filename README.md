@@ -1,6 +1,6 @@
 # generating-neural-networks-with-neural-networks
 
-This repository contains a TensorFlow implementation of a hypternetwork, as described in (link will be provided in a few days).
+This repository contains a TensorFlow implementation of a hypternetwork, as described [here](https://drive.google.com/open?id=1k8DAtHMVAxZGwf_GAbgRHFBTlN1Yj66H).
 Also contained in the repo is the code required to reproduce results from the paper.
 
 The hypernetwork model is implemented in `hypernetwork.py`. To train it, run `train.py`. It uses the hyper-parameters defined in `params.py`, which are the same parameters used in the paper.
