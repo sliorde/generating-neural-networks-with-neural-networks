@@ -9,7 +9,7 @@ The folder `MNF` has an implementation of [MNFG](https://arxiv.org/abs/1703.0196
 
 The folder `analysis` has scripts required to run the experiments described in the paper. The scripts whose file name ends with `_data_creator` are used to create data, which can then be displayed using the other scripts, whose file names end with `_display` . Each script mentions in its body which data it requires. The name of these scripts (before the `_display` suffix) matches the title of the subsection in the paper in which the corresponding experiment was described.
 
-Finally, the folder `toy_exampe` has the toy example from the paper. To train the model, run `toy_example.py`. 
+Finally, the folder `toy_model` has the toy example from the paper. To train the model, run `toy_example.py`. 
 
 
 
